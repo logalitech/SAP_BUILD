@@ -1,0 +1,9 @@
+<mvc:View controllerName="logalitech.appsapui5.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+       <Page id="page" title="{i18n>title}">
+           <content>
+           <Text id="_IDGenText" text="APP Test sapui5" />
+           </content>
+       </Page>
+</mvc:View>
