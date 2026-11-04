@@ -18,7 +18,7 @@
 
 ## appsapui5
 
-APP SAPUI5 TEST
+SAPUI5 APP - For deployment in SAP Build Work Zone
 
 ### Starting the generated app
 
